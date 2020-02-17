@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/toggle_with_react/static/css/main.30115fd9.chunk.css",
+    "main.js": "/toggle_with_react/static/js/main.483df2f3.chunk.js",
+    "main.js.map": "/toggle_with_react/static/js/main.483df2f3.chunk.js.map",
+    "runtime-main.js": "/toggle_with_react/static/js/runtime-main.d893c392.js",
+    "runtime-main.js.map": "/toggle_with_react/static/js/runtime-main.d893c392.js.map",
+    "static/js/2.a92c3c2f.chunk.js": "/toggle_with_react/static/js/2.a92c3c2f.chunk.js",
+    "static/js/2.a92c3c2f.chunk.js.map": "/toggle_with_react/static/js/2.a92c3c2f.chunk.js.map",
+    "index.html": "/toggle_with_react/index.html",
+    "precache-manifest.fd6f3a8597ce7ddfbda8e1f145b12f1c.js": "/toggle_with_react/precache-manifest.fd6f3a8597ce7ddfbda8e1f145b12f1c.js",
+    "service-worker.js": "/toggle_with_react/service-worker.js",
+    "static/css/main.30115fd9.chunk.css.map": "/toggle_with_react/static/css/main.30115fd9.chunk.css.map",
+    "static/js/2.a92c3c2f.chunk.js.LICENSE.txt": "/toggle_with_react/static/js/2.a92c3c2f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d893c392.js",
+    "static/js/2.a92c3c2f.chunk.js",
+    "static/css/main.30115fd9.chunk.css",
+    "static/js/main.483df2f3.chunk.js"
+  ]
+}
